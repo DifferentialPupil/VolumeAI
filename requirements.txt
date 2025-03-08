@@ -1,0 +1,6 @@
+numpy
+pillow_heif
+vision_agent
+flask
+werkzeug
+gunicorn
